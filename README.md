@@ -33,10 +33,12 @@ picoCTF{1t5_ju5t_4_5tr1n9_be6031da}
 
 
 
-![Decompress](images/decompress.png)
+![Decompress](https://github.com/roony2000/picoCTF-disko-1-forensics/raw/main/images/decompress.png)
 
 
-![Flag Found](images/flag_found.png)
+
+![Flag Found](https://github.com/roony2000/picoCTF-disko-1-forensics/raw/main/images/flag_found.png)
+
 
 
 Conclusion
