@@ -34,7 +34,11 @@ picoCTF{1t5_ju5t_4_5tr1n9_be6031da}
 
 
 ![Decompress](images/decompress.png)
+
+
 ![Flag Found](images/flag_found.png)
+
+
 Conclusion
 This challenge demonstrates how to extract hidden information from a disk image using simple command-line tools, a fundamental forensic skill.
 
